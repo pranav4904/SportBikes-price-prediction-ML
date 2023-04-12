@@ -1,10 +1,10 @@
 # SportBikes-price-prediction-ML
 
->Name of publisher : Pranav Subhash Tikone
->Project no. : 1
->Name of project : Sport Bikes Price prediction 
->Date of Project : 12/04/2023
->Topic : Supervised Machine Learning
+Name of publisher : Pranav Subhash Tikone
+Project no. : 1
+Name of project : Sport Bikes Price prediction 
+Date of Project : 12/04/2023
+Topic : Supervised Machine Learning
 
 Description: 
 
